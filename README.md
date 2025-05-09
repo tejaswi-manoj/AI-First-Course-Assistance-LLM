@@ -2,7 +2,7 @@
 
 This project presents a customized **GPT-based language model** designed to assist students in the **Special Topics Course, ECE 2806: AI Foundations offered by the School of Electrical and Computer Engineering in Georgia Tech**, with particular emphasis on **Convolutional Neural Networks (CNNs)**. It explores the effects of **dataset selection**, **tokenization strategies**, and **optimizer choices** on model performance, culminating in a fine-tuned, CNN-focused assistant.
 
-A comprehensive project report detailing my methodology, the challenges encountered, and the interpretation of the results is available [here](https://drive.google.com/drive/folders/1DpKBwIpUOYw_f03_aHWqT-q3mkURUiYE).
+A comprehensive project report detailing my methodology, the challenges encountered, and the interpretation of the results is available [here]([https://drive.google.com/drive/folders/1DpKBwIpUOYw_f03_aHWqT-q3mkURUiYE](https://drive.google.com/file/d/1yfsQRL8FHJrSS3jYINlPnckzrmJz55Ef/view?usp=sharing)).
 
 ## 🛠️ **Summary of Codebase Changes**
 
