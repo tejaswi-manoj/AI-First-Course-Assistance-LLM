@@ -1,6 +1,6 @@
 # **AI Foundations Course Assistance LLM (ECE 2806 Final Project)**
 
-This project presents a customized **GPT-based language model** designed to assist students in **AI Foundations coursework**, with particular emphasis on **Convolutional Neural Networks (CNNs)**. It explores the effects of **dataset selection**, **tokenization strategies**, and **optimizer choices** on model performance, culminating in a fine-tuned, CNN-focused assistant.
+This project presents a customized **GPT-based language model** designed to assist students in the **Special Topics Course, ECE 2806: AI Foundations offered by the School of Electrical and Computer Engineering in Georgia Tech**, with particular emphasis on **Convolutional Neural Networks (CNNs)**. It explores the effects of **dataset selection**, **tokenization strategies**, and **optimizer choices** on model performance, culminating in a fine-tuned, CNN-focused assistant.
 
 ---
 
