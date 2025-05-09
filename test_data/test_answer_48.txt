@@ -1,0 +1,1 @@
+Abductive reasoning involves ruling out other possibilities to arrive at the most likely conclusion. It is most used when multiple explanations are possible, and we must select the one that best fits the evidence.

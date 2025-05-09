@@ -1,0 +1,59 @@
+step 0: train loss 10.8139, val loss 10.8183
+step 256: train loss 10.8023, val loss 10.8072
+Model saved at iteration 500 to ./models/model_GPT_lr5_iter500.pth
+step 512: train loss 10.7812, val loss 10.7875
+step 768: train loss 10.7561, val loss 10.7639
+Model saved at iteration 1000 to ./models/model_GPT_lr5_iter1000.pth
+step 1024: train loss 10.7321, val loss 10.7412
+step 1280: train loss 10.7126, val loss 10.7227
+Model saved at iteration 1500 to ./models/model_GPT_lr5_iter1500.pth
+step 1536: train loss 10.6974, val loss 10.7086
+step 1792: train loss 10.6862, val loss 10.6977
+Model saved at iteration 2000 to ./models/model_GPT_lr5_iter2000.pth
+step 2048: train loss 10.6774, val loss 10.6892
+step 2304: train loss 10.6701, val loss 10.6818
+Model saved at iteration 2500 to ./models/model_GPT_lr5_iter2500.pth
+step 2560: train loss 10.6631, val loss 10.6754
+step 2816: train loss 10.6572, val loss 10.6695
+Model saved at iteration 3000 to ./models/model_GPT_lr5_iter3000.pth
+step 3072: train loss 10.6513, val loss 10.6641
+step 3328: train loss 10.6460, val loss 10.6593
+Model saved at iteration 3500 to ./models/model_GPT_lr5_iter3500.pth
+step 3584: train loss 10.6408, val loss 10.6546
+step 3840: train loss 10.6364, val loss 10.6503
+Model saved at iteration 4000 to ./models/model_GPT_lr5_iter4000.pth
+step 4096: train loss 10.6318, val loss 10.6462
+step 4352: train loss 10.6277, val loss 10.6424
+Model saved at iteration 4500 to ./models/model_GPT_lr5_iter4500.pth
+step 4608: train loss 10.6236, val loss 10.6384
+step 4864: train loss 10.6201, val loss 10.6350
+Model saved at iteration 5000 to ./models/model_GPT_lr5_iter5000.pth
+step 5120: train loss 10.6162, val loss 10.6319
+step 5376: train loss 10.6131, val loss 10.6286
+Model saved at iteration 5500 to ./models/model_GPT_lr5_iter5500.pth
+step 5632: train loss 10.6100, val loss 10.6257
+step 5888: train loss 10.6064, val loss 10.6228
+Model saved at iteration 6000 to ./models/model_GPT_lr5_iter6000.pth
+step 6144: train loss 10.6036, val loss 10.6198
+step 6400: train loss 10.6004, val loss 10.6175
+Model saved at iteration 6500 to ./models/model_GPT_lr5_iter6500.pth
+step 6656: train loss 10.5975, val loss 10.6145
+step 6912: train loss 10.5950, val loss 10.6119
+Model saved at iteration 7000 to ./models/model_GPT_lr5_iter7000.pth
+step 7168: train loss 10.5922, val loss 10.6097
+step 7424: train loss 10.5896, val loss 10.6071
+Model saved at iteration 7500 to ./models/model_GPT_lr5_iter7500.pth
+step 7680: train loss 10.5874, val loss 10.6049
+step 7936: train loss 10.5847, val loss 10.6025
+Model saved at iteration 8000 to ./models/model_GPT_lr5_iter8000.pth
+step 8192: train loss 10.5819, val loss 10.6004
+step 8448: train loss 10.5798, val loss 10.5981
+Model saved at iteration 8500 to ./models/model_GPT_lr5_iter8500.pth
+step 8704: train loss 10.5777, val loss 10.5957
+step 8960: train loss 10.5753, val loss 10.5938
+Model saved at iteration 9000 to ./models/model_GPT_lr5_iter9000.pth
+step 9216: train loss 10.5729, val loss 10.5918
+step 9472: train loss 10.5707, val loss 10.5897
+Model saved at iteration 9500 to ./models/model_GPT_lr5_iter9500.pth
+step 9728: train loss 10.5687, val loss 10.5877
+step 9984: train loss 10.5669, val loss 10.5859

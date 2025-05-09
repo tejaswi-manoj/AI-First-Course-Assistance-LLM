@@ -1,0 +1,1 @@
+It must be mean-centered, and usually standardized so that variables with larger scales don’t dominate the principal components.

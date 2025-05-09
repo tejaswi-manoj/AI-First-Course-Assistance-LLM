@@ -1,0 +1,1 @@
+A feature map is the output of a convolutional layer after applying filters and activation functions. Each map represents the presence of specific features at different spatial locations in the input.

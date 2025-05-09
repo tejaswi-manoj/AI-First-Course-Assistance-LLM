@@ -1,0 +1,1 @@
+Stride refers to the number of pixels the filter moves across the input. A stride greater than 1 reduces the spatial dimensions of the output, creating a downsampled feature map.

@@ -1,0 +1,1 @@
+Underfitting is typically prevented by using a more complex model, adding more relevant feature, or training for more epochs.

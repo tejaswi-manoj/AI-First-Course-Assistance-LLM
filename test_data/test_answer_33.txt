@@ -1,0 +1,1 @@
+Manhattan distance is useful for data with discrete variables, and is preferable to Euclidean distance for high dimensional or sparse data.

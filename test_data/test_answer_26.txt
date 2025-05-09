@@ -1,0 +1,1 @@
+Linear regression is good for predicting numbers when there is a linear relationship between the input features and the target output.

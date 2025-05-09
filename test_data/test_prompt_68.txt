@@ -1,0 +1,1 @@
+Why are CNNs better suited for image data compared to fully connected networks?

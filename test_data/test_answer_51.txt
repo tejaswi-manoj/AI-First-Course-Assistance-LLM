@@ -1,0 +1,1 @@
+The receptive field is the region in the input image that influences a particular neuron in the feature map. As we go deeper in a CNN, receptive fields grow larger, allowing neurons to capture more complex features.

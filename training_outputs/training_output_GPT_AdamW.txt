@@ -1,0 +1,59 @@
+step 0: train loss 10.8574, val loss 10.8563
+step 256: train loss 10.3841, val loss 10.4213
+Model saved at iteration 500 to ./models/model_GPT_AdamW_iter500.pth
+step 512: train loss 9.9036, val loss 9.9692
+step 768: train loss 9.3808, val loss 9.4827
+Model saved at iteration 1000 to ./models/model_GPT_AdamW_iter1000.pth
+step 1024: train loss 9.5316, val loss 9.6857
+step 1280: train loss 8.6770, val loss 8.8179
+Model saved at iteration 1500 to ./models/model_GPT_AdamW_iter1500.pth
+step 1536: train loss 8.2427, val loss 8.3657
+step 1792: train loss 7.9984, val loss 8.1255
+Model saved at iteration 2000 to ./models/model_GPT_AdamW_iter2000.pth
+step 2048: train loss 7.8814, val loss 8.0389
+step 2304: train loss 7.6372, val loss 7.8355
+Model saved at iteration 2500 to ./models/model_GPT_AdamW_iter2500.pth
+step 2560: train loss 7.3246, val loss 7.5764
+step 2816: train loss 7.1683, val loss 7.4562
+Model saved at iteration 3000 to ./models/model_GPT_AdamW_iter3000.pth
+step 3072: train loss 7.0745, val loss 7.3951
+step 3328: train loss 7.0184, val loss 7.3539
+Model saved at iteration 3500 to ./models/model_GPT_AdamW_iter3500.pth
+step 3584: train loss 6.9994, val loss 7.3461
+step 3840: train loss 6.9671, val loss 7.3295
+Model saved at iteration 4000 to ./models/model_GPT_AdamW_iter4000.pth
+step 4096: train loss 6.9287, val loss 7.2976
+step 4352: train loss 6.8892, val loss 7.2642
+Model saved at iteration 4500 to ./models/model_GPT_AdamW_iter4500.pth
+step 4608: train loss 6.8552, val loss 7.2303
+step 4864: train loss 6.8326, val loss 7.2014
+Model saved at iteration 5000 to ./models/model_GPT_AdamW_iter5000.pth
+step 5120: train loss 6.8125, val loss 7.1652
+step 5376: train loss 6.7863, val loss 7.1299
+Model saved at iteration 5500 to ./models/model_GPT_AdamW_iter5500.pth
+step 5632: train loss 6.7843, val loss 7.1098
+step 5888: train loss 6.7837, val loss 7.1006
+Model saved at iteration 6000 to ./models/model_GPT_AdamW_iter6000.pth
+step 6144: train loss 6.7756, val loss 7.0959
+step 6400: train loss 6.7780, val loss 7.1043
+Model saved at iteration 6500 to ./models/model_GPT_AdamW_iter6500.pth
+step 6656: train loss 6.7778, val loss 7.1035
+step 6912: train loss 6.7594, val loss 7.0861
+Model saved at iteration 7000 to ./models/model_GPT_AdamW_iter7000.pth
+step 7168: train loss 6.7412, val loss 7.0643
+step 7424: train loss 6.7373, val loss 7.0530
+Model saved at iteration 7500 to ./models/model_GPT_AdamW_iter7500.pth
+step 7680: train loss 6.7307, val loss 7.0528
+step 7936: train loss 6.7339, val loss 7.0588
+Model saved at iteration 8000 to ./models/model_GPT_AdamW_iter8000.pth
+step 8192: train loss 6.7345, val loss 7.0648
+step 8448: train loss 6.7235, val loss 7.0566
+Model saved at iteration 8500 to ./models/model_GPT_AdamW_iter8500.pth
+step 8704: train loss 6.7108, val loss 7.0474
+step 8960: train loss 6.7053, val loss 7.0402
+Model saved at iteration 9000 to ./models/model_GPT_AdamW_iter9000.pth
+step 9216: train loss 6.7043, val loss 7.0328
+step 9472: train loss 6.7112, val loss 7.0383
+Model saved at iteration 9500 to ./models/model_GPT_AdamW_iter9500.pth
+step 9728: train loss 6.7072, val loss 7.0451
+step 9984: train loss 6.7064, val loss 7.0447

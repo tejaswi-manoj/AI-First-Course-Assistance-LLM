@@ -1,0 +1,1 @@
+The vanishing gradient problem occurs when gradients become very small during backpropagation, making it difficult for weights to update effectively. This typically happens in very deep networks and hinders learning.

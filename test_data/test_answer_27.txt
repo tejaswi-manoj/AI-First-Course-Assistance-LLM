@@ -1,0 +1,1 @@
+Classification predicts categories or labels (for example, spam or not spam) while regression predicts numerical values (for example, house prices).

@@ -1,0 +1,1 @@
+The learning rate controls how much the model updates its parameters during training. If it’s too high, the model may overshoot or diverge. If it’s too low, training can be very slow or get stuck in a poor solution.

@@ -1,0 +1,1 @@
+Overfitting occurs when a model learns the noise in the training data instead of the underlying pattern. This leads to poor performance on unseen data because the model cannot generalize well beyond the examples it was trained on.

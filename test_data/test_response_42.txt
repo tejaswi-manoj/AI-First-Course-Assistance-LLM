@@ -1,0 +1,6 @@
+What features the model has learned (via filter visualizations).
+How it responds to specific input (via activation maps highlighting what parts of input trigger certain features).
+Structure in the learned representation (via embeddings plots).
+For instance, in an image classifier, we might show saliency maps (explained below) or filter visualizations to a user to justify: The network pays attention to these image regions which correspond to the object. For a text model, one might highlight words that most influenced a prediction (like attention weights in a transformer can be visualized to show which words in a sentence the model focused on to translate a particular word, etc.).
+Saliency Maps, Grad-CAM
+Saliency maps are a way to identify which pixels of an image (or which features in a general input) most affect the output. A simple saliency method

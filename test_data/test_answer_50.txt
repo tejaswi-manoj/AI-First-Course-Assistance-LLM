@@ -1,0 +1,1 @@
+Rather than one-time decisions where there is no influence on future choices, it makes a series of decisions over time where each choice influences subsequent actions. This is most related to reinforcement learning in AI, and techniques such as Markov Decision Process are the mathematical foundations for sequential decision making.

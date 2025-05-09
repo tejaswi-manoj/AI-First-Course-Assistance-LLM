@@ -1,0 +1,14 @@
+#!/bin/bash
+
+python3 training_base.py --learning_rate .3 --save_file './models/model_learning_rate_.3.pth'
+
+python3 training_base.py --learning_rate .2 --save_file './models/model_learning_rate_.2.pth'
+
+
+python3 training_base.py --learning_rate .1 --save_file './models/model_learning_rate_.1.pth'
+
+
+python3 training_base.py --learning_rate .05 --save_file './models/model_learning_rate_.05.pth'
+
+
+python3 training_tokenizer.py --learning_rate .3  --tokenization_strategy 'GPT' './models/model_learning_rate_.3_tokenizer_GPT.pth'

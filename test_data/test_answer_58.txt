@@ -1,0 +1,1 @@
+Activation functions introduce non-linearity into the network, allowing CNNs to model complex relationships between input and output. ReLU is commonly used because it speeds up training and avoids vanishing gradients.

@@ -1,0 +1,9 @@
+What which features identified and see how much the models output remains in favor of the predicted class (if still high confidence, then those features were sufficient to produce the prediction).
+sciencedirect.com
+
+sciencedirect.com
+
+Also, explanation methods can be compared by how well their feature importance aligns with known ground truth (if we have synthetic data where we know which features truly matter, or images with segmentation masks of objects, etc.). E.g., if an image dataset has segmentation of objects, a good explanation for class "dog" should overlap heavily with the dogs segmentation mask, which can be quantified by IoU or something between Grad-CAM heatmap threshold and the actual object region. Another concept: concept activation vectors (TCAV)  which checks how sensitive a prediction is to a high-level concept (like striped texture concept for zebra classifier) and yields a score. Thats more an interpretability approach to see if certain human-understandable concepts align with internal directions in the neural network. In summary, evaluation of interpretability/explainability can be:
+Qualitative: visual inspection, anecdotal checks, human feedback.
+Quantitative proxies: fidelity measures (how explanation corresponds to model behavior), and if possible, correlation with ground truth influences.
+Because explainability sits at the interface with humans, there's an element of subjective satisfaction  an explanation is useful if it

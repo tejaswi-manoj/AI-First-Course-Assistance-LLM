@@ -1,0 +1,1 @@
+What must be done to the data before applying PCA?

@@ -1,0 +1,2 @@
+PCA is a way to project data into a lower dimensional space based on the eigenvectors that point in the direction of
+greatest variance in the data.

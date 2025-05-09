@@ -1,0 +1,1 @@
+Backpropagation is the algorithm used to train neural networks by computing the gradients of the loss function with respect to the model’s weights.

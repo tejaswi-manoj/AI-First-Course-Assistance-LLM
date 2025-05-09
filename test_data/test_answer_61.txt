@@ -1,0 +1,1 @@
+Pooling layers reduce the spatial dimensions of feature maps, which decreases computational cost and helps make the model more robust to small translations in the input. Max pooling is the most common, selecting the maximum value from each region.

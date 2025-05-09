@@ -1,0 +1,1 @@
+Covariance is a measure of how much two random variables change together. It shows if an increase in one variable corresponds to an increase or decrease in the other variable generally.

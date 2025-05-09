@@ -1,0 +1,1 @@
+This greatly reduces the number of parameters compared to fully connected layers, which helps prevent overfitting and improves computational efficiency.

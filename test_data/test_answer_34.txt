@@ -1,0 +1,1 @@
+For r=0, it is the number of non-zero elements in the difference vector, for r=1 it is the Manhattan distance, for r=2 it is the Euclidean distance, and for r = infinity it is the max difference along any coordinate direction

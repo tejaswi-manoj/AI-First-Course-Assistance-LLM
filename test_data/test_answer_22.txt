@@ -1,0 +1,1 @@
+K-means is a type of unsupervised learning that groups data into K clusters (you choose the value for K) by learning patterns in the data.

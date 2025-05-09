@@ -1,0 +1,1 @@
+Classification finds decision boundaries between data, and uses that to classify data. Regression finds a function to predict mapping to a single value. Clustering groups together similar non-labeled data into a number of clusters. 

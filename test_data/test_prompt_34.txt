@@ -1,0 +1,1 @@
+What is the Minkowski distance for r=0,1,2,infinity ?

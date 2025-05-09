@@ -1,0 +1,1 @@
+It reduces dimensionality, which lowers computational cost. It helps visualize high-dimensional data in 2D or 3D. It can remove noise by retaining only the most informative components.

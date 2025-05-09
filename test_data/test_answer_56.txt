@@ -1,0 +1,1 @@
+Translation invariance is achieved by local receptive fields, weight sharing, and pooling layers, allowing CNNs to recognize features even if they move slightly within the input image.

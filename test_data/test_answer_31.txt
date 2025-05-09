@@ -1,0 +1,1 @@
+Syntactic refers to differences in data types and formats, while semantic refers to diversity in the number of categories or classes of data. 

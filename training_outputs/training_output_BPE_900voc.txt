@@ -1,0 +1,4 @@
+step 0: train loss 6.8062, val loss 6.8070
+step 256: train loss 6.6464, val loss 6.6532
+Model saved at iteration 500 to ./models/model_BPE_900voc_iter500.pth
+step 512: train loss 6.4928, val loss 6.5097

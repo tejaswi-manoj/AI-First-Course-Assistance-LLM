@@ -1,0 +1,1 @@
+Does the accuracy score always a good metric to measure the performance of a classification model?

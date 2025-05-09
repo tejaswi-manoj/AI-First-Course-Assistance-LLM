@@ -1,0 +1,1 @@
+A confusion matrix is essentially a table used to show how many predictions were correct or incorrect for each class. It is especially useful in imbalanced datasets for it reveals a more accurate representation of the performance beyond just accuracy.

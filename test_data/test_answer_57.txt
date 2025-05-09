@@ -1,0 +1,1 @@
+Pooling layers downsample feature maps by summarizing nearby outputs, reducing spatial size, computation, and helping the network focus on the most prominent features.

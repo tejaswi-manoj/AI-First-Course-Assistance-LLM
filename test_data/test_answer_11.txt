@@ -1,0 +1,1 @@
+Filters are used to detect specific patterns in the input such as edges or shapes. The CNN can automatically extract important features from the data.

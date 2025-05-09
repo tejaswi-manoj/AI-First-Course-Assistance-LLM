@@ -1,0 +1,59 @@
+step 0: train loss 6.0086, val loss 6.0062
+step 256: train loss 5.7690, val loss 5.7719
+Model saved at iteration 500 to ./models/model_BPE_Adam_iter500.pth
+step 512: train loss 5.5442, val loss 5.5498
+step 768: train loss 5.3692, val loss 5.3750
+Model saved at iteration 1000 to ./models/model_BPE_Adam_iter1000.pth
+step 1024: train loss 5.2542, val loss 5.2568
+step 1280: train loss 5.1928, val loss 5.1872
+Model saved at iteration 1500 to ./models/model_BPE_Adam_iter1500.pth
+step 1536: train loss 5.1485, val loss 5.1347
+step 1792: train loss 5.1215, val loss 5.1056
+Model saved at iteration 2000 to ./models/model_BPE_Adam_iter2000.pth
+step 2048: train loss 5.0953, val loss 5.0811
+step 2304: train loss 5.0760, val loss 5.0676
+Model saved at iteration 2500 to ./models/model_BPE_Adam_iter2500.pth
+step 2560: train loss 5.0623, val loss 5.0596
+step 2816: train loss 5.0556, val loss 5.0539
+Model saved at iteration 3000 to ./models/model_BPE_Adam_iter3000.pth
+step 3072: train loss 5.0500, val loss 5.0488
+step 3328: train loss 5.0466, val loss 5.0452
+Model saved at iteration 3500 to ./models/model_BPE_Adam_iter3500.pth
+step 3584: train loss 5.0450, val loss 5.0427
+step 3840: train loss 5.0416, val loss 5.0376
+Model saved at iteration 4000 to ./models/model_BPE_Adam_iter4000.pth
+step 4096: train loss 5.0372, val loss 5.0346
+step 4352: train loss 5.0330, val loss 5.0300
+Model saved at iteration 4500 to ./models/model_BPE_Adam_iter4500.pth
+step 4608: train loss 5.0300, val loss 5.0274
+step 4864: train loss 5.0283, val loss 5.0266
+Model saved at iteration 5000 to ./models/model_BPE_Adam_iter5000.pth
+step 5120: train loss 5.0277, val loss 5.0279
+step 5376: train loss 5.0262, val loss 5.0249
+Model saved at iteration 5500 to ./models/model_BPE_Adam_iter5500.pth
+step 5632: train loss 5.0253, val loss 5.0221
+step 5888: train loss 5.0229, val loss 5.0195
+Model saved at iteration 6000 to ./models/model_BPE_Adam_iter6000.pth
+step 6144: train loss 5.0221, val loss 5.0175
+step 6400: train loss 5.0194, val loss 5.0141
+Model saved at iteration 6500 to ./models/model_BPE_Adam_iter6500.pth
+step 6656: train loss 5.0183, val loss 5.0133
+step 6912: train loss 5.0167, val loss 5.0126
+Model saved at iteration 7000 to ./models/model_BPE_Adam_iter7000.pth
+step 7168: train loss 5.0148, val loss 5.0112
+step 7424: train loss 5.0124, val loss 5.0092
+Model saved at iteration 7500 to ./models/model_BPE_Adam_iter7500.pth
+step 7680: train loss 5.0095, val loss 5.0052
+step 7936: train loss 5.0067, val loss 5.0018
+Model saved at iteration 8000 to ./models/model_BPE_Adam_iter8000.pth
+step 8192: train loss 5.0041, val loss 4.9991
+step 8448: train loss 5.0009, val loss 4.9972
+Model saved at iteration 8500 to ./models/model_BPE_Adam_iter8500.pth
+step 8704: train loss 4.9991, val loss 4.9964
+step 8960: train loss 4.9963, val loss 4.9948
+Model saved at iteration 9000 to ./models/model_BPE_Adam_iter9000.pth
+step 9216: train loss 4.9944, val loss 4.9936
+step 9472: train loss 4.9926, val loss 4.9945
+Model saved at iteration 9500 to ./models/model_BPE_Adam_iter9500.pth
+step 9728: train loss 4.9889, val loss 4.9909
+step 9984: train loss 4.9855, val loss 4.9874

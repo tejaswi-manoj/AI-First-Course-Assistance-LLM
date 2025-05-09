@@ -1,0 +1,1 @@
+Why do CNNs have fewer parameters compared to fully connected networks?

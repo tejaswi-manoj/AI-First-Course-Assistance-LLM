@@ -1,0 +1,25 @@
+Traceback (most recent call last):
+  File "/storage/ice1/5/0/tmanoj3/Sp25_AIFirst_Project_Starter_Code/training_tokenizer_edited.py", line 125, in <module>
+    main()
+  File "/storage/ice1/5/0/tmanoj3/Sp25_AIFirst_Project_Starter_Code/training_tokenizer_edited.py", line 88, in main
+    model.load_state_dict(checkpoint['model_state_dict'])
+  File "/home/hice1/tmanoj3/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 2581, in load_state_dict
+    raise RuntimeError(
+RuntimeError: Error(s) in loading state_dict for GPTLanguageModel:
+	size mismatch for position_embedding_table.weight: copying a param with shape torch.Size([128, 384]) from checkpoint, the shape in current model is torch.Size([32, 384]).
+	size mismatch for sa_head.heads.0.tril: copying a param with shape torch.Size([128, 128]) from checkpoint, the shape in current model is torch.Size([32, 32]).
+	size mismatch for sa_head.heads.1.tril: copying a param with shape torch.Size([128, 128]) from checkpoint, the shape in current model is torch.Size([32, 32]).
+	size mismatch for sa_head.heads.2.tril: copying a param with shape torch.Size([128, 128]) from checkpoint, the shape in current model is torch.Size([32, 32]).
+	size mismatch for sa_head.heads.3.tril: copying a param with shape torch.Size([128, 128]) from checkpoint, the shape in current model is torch.Size([32, 32]).
+	size mismatch for blocks.0.sa.heads.0.tril: copying a param with shape torch.Size([128, 128]) from checkpoint, the shape in current model is torch.Size([32, 32]).
+	size mismatch for blocks.0.sa.heads.1.tril: copying a param with shape torch.Size([128, 128]) from checkpoint, the shape in current model is torch.Size([32, 32]).
+	size mismatch for blocks.0.sa.heads.2.tril: copying a param with shape torch.Size([128, 128]) from checkpoint, the shape in current model is torch.Size([32, 32]).
+	size mismatch for blocks.0.sa.heads.3.tril: copying a param with shape torch.Size([128, 128]) from checkpoint, the shape in current model is torch.Size([32, 32]).
+	size mismatch for blocks.1.sa.heads.0.tril: copying a param with shape torch.Size([128, 128]) from checkpoint, the shape in current model is torch.Size([32, 32]).
+	size mismatch for blocks.1.sa.heads.1.tril: copying a param with shape torch.Size([128, 128]) from checkpoint, the shape in current model is torch.Size([32, 32]).
+	size mismatch for blocks.1.sa.heads.2.tril: copying a param with shape torch.Size([128, 128]) from checkpoint, the shape in current model is torch.Size([32, 32]).
+	size mismatch for blocks.1.sa.heads.3.tril: copying a param with shape torch.Size([128, 128]) from checkpoint, the shape in current model is torch.Size([32, 32]).
+	size mismatch for blocks.2.sa.heads.0.tril: copying a param with shape torch.Size([128, 128]) from checkpoint, the shape in current model is torch.Size([32, 32]).
+	size mismatch for blocks.2.sa.heads.1.tril: copying a param with shape torch.Size([128, 128]) from checkpoint, the shape in current model is torch.Size([32, 32]).
+	size mismatch for blocks.2.sa.heads.2.tril: copying a param with shape torch.Size([128, 128]) from checkpoint, the shape in current model is torch.Size([32, 32]).
+	size mismatch for blocks.2.sa.heads.3.tril: copying a param with shape torch.Size([128, 128]) from checkpoint, the shape in current model is torch.Size([32, 32]).

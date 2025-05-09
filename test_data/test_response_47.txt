@@ -1,0 +1,9 @@
+What features the model has learned (via filter visualizations).
+How it responds to specific input (via activation maps highlighting what parts of input trigger certain features).
+Structure in the learned representation (via embeddings plots).
+For instance, in an image classifier, we might show saliency maps, but we deduce it via tools.
+Interpretability is more about the model structure (is it inherently understandable?), whereas explainability is often about generating an explanation (perhaps approximating the model locally with something interpretable, or highlighting input features, etc.). Many use the terms interchangeably, but one can note:
+Decision trees or linear models are inherently interpretable.
+Deep networks or ensembles are not, so we apply explainability methods to them.
+Visualizations: Filters, Activations, Embeddings
+Visualizing filters:

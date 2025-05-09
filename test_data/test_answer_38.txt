@@ -1,0 +1,1 @@
+Deductive reasoning makes specific conclusions from a general set of facts. Assuming that if the facts are true, the conclusions will be too. Inductive reasoning makes general conclusions from a specific set of observations. The conclusion will be a probability of truth, not deterministically true. 

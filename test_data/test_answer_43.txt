@@ -1,0 +1,1 @@
+A decision tree's nodes are dependent on information theory. For example, Entropy and Information Gain are used to decide which feature is to be used for this level of decision making, and which node to put down for highest efficiency.

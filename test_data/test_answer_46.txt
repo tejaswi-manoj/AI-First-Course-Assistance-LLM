@@ -1,0 +1,1 @@
+Data errors occur when the data used to train or evaluate the model is inaccurate, inconsistent, or incomplete. We can minimize these by cleaning and ensuring the quality of training data.

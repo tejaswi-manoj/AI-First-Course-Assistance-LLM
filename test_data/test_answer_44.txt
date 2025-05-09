@@ -1,0 +1,1 @@
+No. When training AI, another important measure to consider is explainability. If an AI has high accuracy, but focuses on the wrong things completely, then it is not useful to the user. We aim to achieve a balance of explainability and accuracy when training AI models.

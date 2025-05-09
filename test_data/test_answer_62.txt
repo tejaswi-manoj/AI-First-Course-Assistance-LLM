@@ -1,0 +1,1 @@
+ReLU stands for Rectified Linear Unit. It applies a simple non-linearity that sets all negative values in the input to zero and keeps positive values unchanged. This helps the network learn faster and reduces the risk of vanishing gradients.

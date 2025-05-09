@@ -1,0 +1,1 @@
+KL divergence is used to determine the difference between two probability distributions. It is relative entropy, and measures the difference between two probability distributions by quantifying the amount of information loss when one distribution is used to approximate the other. 

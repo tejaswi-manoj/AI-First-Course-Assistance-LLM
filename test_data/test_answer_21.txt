@@ -1,0 +1,1 @@
+Supervised learning trains a model with labeled data while unsupervised learning trains a model with unlabeled data.

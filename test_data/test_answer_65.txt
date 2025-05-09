@@ -1,0 +1,1 @@
+Batch normalization normalizes the outputs of a previous layer by adjusting and scaling the activations. It helps stabilize and speed up the training process and can also act as a form of regularization to reduce overfitting.

@@ -1,0 +1,1 @@
+Dropout randomly disables a fraction of neurons during each training iteration. This forces the model to develop redundant representations, making it more robust and reducing its tendency to memorize the training data.

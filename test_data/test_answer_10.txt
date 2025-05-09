@@ -1,0 +1,1 @@
+A technique that discourages learning a more complex or flexible model, so as to avoid the risk of overfitting.

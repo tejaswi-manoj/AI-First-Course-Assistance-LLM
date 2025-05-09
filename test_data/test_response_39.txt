@@ -1,0 +1,10 @@
+Explainability techniques aim to bridge this gap by producing explanations for specific decisions or the model as a whole. This doesnt necessarily make the network itself transparent, but gives some post-hoc insight into what its doin
+medium.com
+. For example, an explanation might be: The model predicts this image is a cat because of the presence of fur texture and pointed ears in the image. The network itself doesnt literally output that reasoning, but we deduce it via tools.
+Interpretability is more about the model structure (is it inherently understandable?), whereas explainability is often about generating an explanation (perhaps approximating the model locally with something interpretable, or highlighting input features, etc.). Many use the terms interchangeably, but one can note:
+Decision trees or linear models are inherently interpretable.
+Deep networks or ensembles are not, so we apply explainability methods to them.
+Visualizations: Filters, Activations, Embeddings
+Visualizing filters: In CNNs, one way to interpret the model is to look at the learned filters (weights) in early layer
+prezi.com
+. For

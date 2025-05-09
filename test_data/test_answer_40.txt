@@ -1,0 +1,1 @@
+GMM clustering is a perfect circle when the covariance matrix has equal values on the diagonal entries, and off diagonal entries equal to zero. This means that the features are uncorrelated, and that variance is the same in all directions, with none being more important.

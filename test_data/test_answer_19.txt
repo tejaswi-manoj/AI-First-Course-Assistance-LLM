@@ -1,0 +1,1 @@
+Eigenvalues indicate how much variance each principal component captures.

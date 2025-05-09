@@ -1,0 +1,1 @@
+What is learning rate in gradient descent and why is it useful?

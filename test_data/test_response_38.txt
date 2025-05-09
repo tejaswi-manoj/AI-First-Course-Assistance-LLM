@@ -1,0 +1,9 @@
+Explainability in AI vs Explainability
+These terms are often refers to that this is to a models prediction in human-understandable terms. In AI:
+An interpretable model is one whose internal workings can be directly understood. For example, a single decision tree can be said to be interpretable: one can follow the path and see exactly how features influence the decision. Similarly, linear regressions weights can be interpreted as how much each feature contributes.
+Neural networks, especially deep ones, are generally considered black boxes: their internal parameters are not easily interpretable by humans. There are thousands or millions of weights without immediate intuitive meaning for each. Thus, raw neural networks are not very interpretable.
+Explainability techniques aim to bridge this gap by producing explanations for specific decisions or the model as a whole. This doesnt necessarily make the network itself transparent, but gives some post-hoc insight into what its doin
+medium.com
+. For example, an explanation might be: The model predicts this image is a cat because of the presence of fur texture and pointed ears in the image. The network itself doesnt literally output that reasoning, but we deduce it via tools.
+Interpretability is more about the model structure (is it inherently understandable?), whereas explainability is often about generating an explanation (perhaps approximating the model locally with something interpretable, or highlighting input features, etc.). Many use the terms interchangeably, but one can note:
+Decision

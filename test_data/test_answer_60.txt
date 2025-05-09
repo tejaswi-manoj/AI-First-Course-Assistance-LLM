@@ -1,0 +1,1 @@
+In transfer learning, a CNN pre-trained on a large dataset like ImageNet is fine-tuned on a smaller, task-specific dataset. The lower layers are usually kept, and only higher layers are retrained to adapt to the new task.

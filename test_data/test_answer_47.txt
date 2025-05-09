@@ -1,0 +1,1 @@
+Inductive reasoning draws a probable conclusion from observed specifics. It involves first recognizing important observations, generalizing them, and arriving at a conclusion.

@@ -1,0 +1,27 @@
+Why Dimensionality Reduction?)
+Real-world data often has many features (high-dimensional), but not all are informative; many might be redundant or noisy. Dimensionality reduction is the process of reducing the influence of outliers or high variance in one dimension). Minkowski distance provides a unified view of a family of distance measures and highlights how changing the norm changes the notion of similarity.
+Mahalanobis Distance
+Mahalanobis distance is a distance measure that accounts for the variance and covariance of the data. Unlike Euclidean distance which treats all directions equally, Mahalanobis distance scales the coordinate differences by the datas covariance matrix, effectively measuring distance in terms of standard deviations. The Mahalanobis distance between a distance between a point $x$ and a distribution with mean $\mu$ and covariance matrix $\Sigma$ is given by: 
+
+
+(
+
+)
+=
+(
+
+
+
+)
+
+
+
+1
+(
+
+
+
+)
+.
+d 
+M

@@ -1,0 +1,1 @@
+Why are smaller filters (e.g., 3x3) preferred in modern CNN architectures?

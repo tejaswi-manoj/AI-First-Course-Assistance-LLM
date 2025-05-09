@@ -1,0 +1,1 @@
+Convolutional filters are small matrices of learnable weights that are applied across the input data. They detect local patterns such as edges, corners, and textures, enabling the network to learn complex features in later layers.

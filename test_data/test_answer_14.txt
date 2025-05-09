@@ -1,0 +1,1 @@
+Stride refers to how many pixels the filter moves at each step during convolution to effectively reducing the output size.

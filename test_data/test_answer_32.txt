@@ -1,0 +1,1 @@
+A greedy algorithm is one that always makes the choice that looks best at that moment, hoping that a locally optimal choice will lead to a globally optimal solution. 

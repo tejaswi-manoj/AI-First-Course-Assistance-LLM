@@ -1,0 +1,1 @@
+Overfitting is typically prevented by using simpler models, using more training data, using cross-validation, or regularization.

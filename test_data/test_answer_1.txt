@@ -1,0 +1,4 @@
+Overfitting happens when the model learns patterns as well as the noises present in the data this leads to high performance on the training data but very low performance for data that the model has not seen earlier.
+To avoid overfitting there are multiple methods that we can use:
+Early stopping of the models training in case of validation training stops increasing but the training keeps going on.
+Using regularization methods like L or L regularization which is used to penalize the models weights to avoid overfitting.

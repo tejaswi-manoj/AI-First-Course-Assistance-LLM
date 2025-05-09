@@ -1,0 +1,1 @@
+Smaller filters like 3x3 are preferred because they reduce the number of parameters, enable deeper networks, and stack multiple convolutions to capture complex patterns while maintaining computational efficiency.

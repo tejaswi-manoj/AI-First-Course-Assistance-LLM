@@ -1,0 +1,1 @@
+Zero-padding adds extra rows and columns of zeros around the input. This helps preserve the spatial dimensions after convolution and allows convolutional filters to better process edge pixels.

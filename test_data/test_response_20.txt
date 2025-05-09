@@ -1,0 +1,4 @@
+What attributes form an input variables that are centered.
+Measures of dispersion: such as range (difference between max and min), variance, and standard deviation, which indicate how spread out the values are around the center.
+Distribution shape: characteristics like skewness (asymmetry of the distribution) and kurtosis (tailedness) describe the shape of the datas distribution.
+These statistics help in understanding the dataset before modeling. For instance, a high variance in an attribute suggests the data points are very spread out, which could affect model stability. Checking data statistics can reveal if data is normally distributed or if it has

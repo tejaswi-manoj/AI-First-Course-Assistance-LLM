@@ -1,0 +1,7 @@
+Why Dimensionality Reduction?)
+Real-world data often has many features (high-dimensional), but not all are informative; many might be redundant or noisy. Dimensionality reduction is the process of reducing the number of random variables under consideration, often obtaining a set of principal variables. The reasoning behind this is multi-fold:
+Simplification and Insight: Reducing dimensions can make data visualization possible (e.g., compressing down to 2D or 3D for plotting) and help understand underlying structure.
+Noise Reduction: By projecting data into a subspace that captures the most important variations, we can exclude directions largely consisting of noise.
+Curse of Dimensionality: In very high-dimensional spaces, data becomes sparse and distances become less meaningful. Reducing dimensions mitigates this, often improving the performance of algorithms (like clustering or nearest neighbors) and reducing overfitting in supervised learning.
+Efficiency: Fewer dimensions mean faster computations and less storage, which is important for large datasets or real-time applications.
+One of the most popular dimensionality reduction techniques is Principal Component Analysis (PCA).

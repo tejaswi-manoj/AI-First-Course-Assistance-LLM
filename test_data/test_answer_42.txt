@@ -1,0 +1,1 @@
+To reduce the dimensionality of data while preserving its most important relationships, transforming high-dimensional data into a lower-dimensional space for easier processing.

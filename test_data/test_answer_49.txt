@@ -1,0 +1,1 @@
+Deductive reasoning starts with a general rule or premise and applies it to a specific instance. If the premise holds, then the output is certain.

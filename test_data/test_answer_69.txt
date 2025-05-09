@@ -1,0 +1,1 @@
+Data augmentation artificially increases the size and diversity of a training dataset by applying random transformations such as rotation, flipping, cropping, or color adjustments. This helps improve model generalization.

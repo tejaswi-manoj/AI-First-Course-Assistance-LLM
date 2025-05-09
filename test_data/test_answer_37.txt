@@ -1,0 +1,1 @@
+For a set of vectors to be a basis for a space, then the vectors must be independent, and span the space. To be linearly independent the vectors must not be able to be written as a linear combination of the rest of the vectors. To span some space, the space must be able to be written as a linear combination of vectors in the set. 

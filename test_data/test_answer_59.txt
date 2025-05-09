@@ -1,0 +1,1 @@
+Deeper CNNs can capture hierarchical features — from simple edges in early layers to complex object parts in later layers — enabling better performance on tasks like image classification and object detection.

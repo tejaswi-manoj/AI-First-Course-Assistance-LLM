@@ -1,0 +1,1 @@
+Model errors occur when the model's predictions deviate from the true values due to flaws in the model's design, training, or assumptions. We can minimize these by choosing appropriate frameworks and models before training, regularizing the model during training, and cross-validating the model after training.

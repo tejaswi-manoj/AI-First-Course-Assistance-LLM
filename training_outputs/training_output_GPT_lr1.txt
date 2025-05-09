@@ -1,0 +1,59 @@
+step 0: train loss 10.8218, val loss 10.8187
+step 256: train loss 10.3885, val loss 10.4272
+Model saved at iteration 500 to ./models/model_GPT_lr1_iter500.pth
+step 512: train loss 23.1650, val loss 23.5387
+step 768: train loss 19.9613, val loss 18.4633
+Model saved at iteration 1000 to ./models/model_GPT_lr1_iter1000.pth
+step 1024: train loss 5628.3687, val loss 5733.6934
+step 1280: train loss 1302915584.0000, val loss 1326850816.0000
+Model saved at iteration 1500 to ./models/model_GPT_lr1_iter1500.pth
+step 1536: train loss 1761756148644442651230208.0000, val loss 1543577859573395232915456.0000
+step 1792: train loss nan, val loss nan
+Model saved at iteration 2000 to ./models/model_GPT_lr1_iter2000.pth
+step 2048: train loss nan, val loss nan
+step 2304: train loss nan, val loss nan
+Model saved at iteration 2500 to ./models/model_GPT_lr1_iter2500.pth
+step 2560: train loss nan, val loss nan
+step 2816: train loss nan, val loss nan
+Model saved at iteration 3000 to ./models/model_GPT_lr1_iter3000.pth
+step 3072: train loss nan, val loss nan
+step 3328: train loss nan, val loss nan
+Model saved at iteration 3500 to ./models/model_GPT_lr1_iter3500.pth
+step 3584: train loss nan, val loss nan
+step 3840: train loss nan, val loss nan
+Model saved at iteration 4000 to ./models/model_GPT_lr1_iter4000.pth
+step 4096: train loss nan, val loss nan
+step 4352: train loss nan, val loss nan
+Model saved at iteration 4500 to ./models/model_GPT_lr1_iter4500.pth
+step 4608: train loss nan, val loss nan
+step 4864: train loss nan, val loss nan
+Model saved at iteration 5000 to ./models/model_GPT_lr1_iter5000.pth
+step 5120: train loss nan, val loss nan
+step 5376: train loss nan, val loss nan
+Model saved at iteration 5500 to ./models/model_GPT_lr1_iter5500.pth
+step 5632: train loss nan, val loss nan
+step 5888: train loss nan, val loss nan
+Model saved at iteration 6000 to ./models/model_GPT_lr1_iter6000.pth
+step 6144: train loss nan, val loss nan
+step 6400: train loss nan, val loss nan
+Model saved at iteration 6500 to ./models/model_GPT_lr1_iter6500.pth
+step 6656: train loss nan, val loss nan
+step 6912: train loss nan, val loss nan
+Model saved at iteration 7000 to ./models/model_GPT_lr1_iter7000.pth
+step 7168: train loss nan, val loss nan
+step 7424: train loss nan, val loss nan
+Model saved at iteration 7500 to ./models/model_GPT_lr1_iter7500.pth
+step 7680: train loss nan, val loss nan
+step 7936: train loss nan, val loss nan
+Model saved at iteration 8000 to ./models/model_GPT_lr1_iter8000.pth
+step 8192: train loss nan, val loss nan
+step 8448: train loss nan, val loss nan
+Model saved at iteration 8500 to ./models/model_GPT_lr1_iter8500.pth
+step 8704: train loss nan, val loss nan
+step 8960: train loss nan, val loss nan
+Model saved at iteration 9000 to ./models/model_GPT_lr1_iter9000.pth
+step 9216: train loss nan, val loss nan
+step 9472: train loss nan, val loss nan
+Model saved at iteration 9500 to ./models/model_GPT_lr1_iter9500.pth
+step 9728: train loss nan, val loss nan
+step 9984: train loss nan, val loss nan

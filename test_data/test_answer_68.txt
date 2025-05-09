@@ -1,0 +1,1 @@
+CNNs leverage spatial hierarchies through local connections, shared weights, and pooling. This design greatly reduces the number of parameters compared to fully connected networks and captures important local features in images.

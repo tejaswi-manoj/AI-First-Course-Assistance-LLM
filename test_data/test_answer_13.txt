@@ -1,0 +1,1 @@
+Padding is the process of adding extra pixels (usually zeros) around the border of the input image to preserve the spatial dimensions after convolution and prevents excessive shrinking of the feature map.

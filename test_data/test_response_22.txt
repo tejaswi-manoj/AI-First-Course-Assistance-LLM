@@ -1,0 +1,5 @@
+How
+Check linearity (if residual plots show curvature, the linear model might be invalid).
+Check homoscedasticity (plot residuals vs fitted values to see if the spread is roughly constant; if not, maybe a weighted regression or transform of $y$ is needed).
+Check normality of residuals (with a Q-Q plot or histogram of residuals) if one needs to do statistical inference (CIs, p-values), though for pure prediction this is less crucial.
+Check for influential outliers (points that have a large effect on the fitted line, using Cooks distance or leverage statistics). If a single point unduly influences the fit
